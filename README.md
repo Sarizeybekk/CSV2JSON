@@ -3,7 +3,7 @@
 Available terminal commands
     Projemizin bulunduğu  klasörü belirten alana geçiş yapacagız.
     >cd klasorurl
-    >cd C:\Users\Sulta\Downloads\CSV2JSON\210601688_Sultan_SARİZEYBEK_Odev1
+    >cd C:\Users\Sulta\Downloads\CSV2JSON
 
     .exe  olusturmak icin 
     >gcc -o CSV2JSON main.c
